@@ -4,7 +4,7 @@
 <h3 align="center">AI Full Stack & Android Developer | NERN Stack | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=AI+Full+Stack+Developer;Android+Developer+in+Kotlin;310%2B+LeetCode+Problems+Solved;Machine+Learning+Explorer;Clean+Code+Advocate;NERN+Stack+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=AI+Full+Stack+Developer;Android+Developer+%28Kotlin%29;310%2B+LeetCode+Problems+Solved;Node.js+%2B+Express+%2B+MongoDB+%2B+SQL;Machine+Learning+Explorer;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
 
 ---
@@ -25,10 +25,10 @@
 #### 💻 Frontend
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
 </p>
 
 #### 🔧 Backend & Database
@@ -36,10 +36,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
 </p>
 
-#### 📱 Mobile Development
+#### 📱 Android Development
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
 </p>
 
@@ -49,7 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
-  <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" height="40" alt="Vercel" />
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="40" alt="Vercel" />
 </p>
 
 ---
@@ -73,10 +75,10 @@
 
 ---
 
-### 🛠️ Current Projects
+### 💼 Current Projects
 
 - 🤖 AI-Powered SaaS Web App (Next.js + Python Backend)
-- 📱 Android App in Kotlin for daily productivity
+- 📱 Android App (Kotlin + Firebase)
 - 📊 DSA Visualizer (React + Canvas)
 - 💼 Portfolio Website (Next.js + Tailwind CSS)
 
@@ -100,5 +102,5 @@
 
 ### ⚡ Fun Fact
 
-> I love blending AI, mobile, and web into seamless products — and I debug like a detective 🕵️‍♂️  
-> Always learning. Always building. Let’s collaborate! 🚀
+> I build full-stack apps, develop Android UIs in Kotlin, solve DSA like puzzles, and love clean, scalable code.  
+> Let's build something cool together! 🚀
