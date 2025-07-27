@@ -4,7 +4,7 @@
 <h3 align="center">AI Full Stack & Android Developer | MERN Stack | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=AI+Full+Stack+Developer;Android+Developer+%28Kotlin%29;310%2B+LeetCode+Problems+Solved;Node.js+%2B+Express+%2B+MongoDB+%2B+SQL;Machine+Learning+Explorer;Clean+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=AI+Full+Stack+Developer;Android+Developer+(Kotlin);310%2B+LeetCode+Problems+Solved;Node.js+%2B+Express+%2B+MongoDB+%2B+SQL;Machine+Learning+Explorer;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
 
 ---
@@ -25,10 +25,10 @@
 #### 💻 Frontend
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40" alt="Next.js" style="background-color: white; padding: 5px; border-radius: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="28" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
 </p>
 
 #### 🔧 Backend & Database
@@ -36,9 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </p>
-
 
 #### 📱 Android Development
 <p align="center">
@@ -105,3 +104,5 @@
 
 > I build full-stack apps, develop Android UIs in Kotlin, solve DSA like puzzles, and love clean, scalable code.  
 > Let's build something cool together! 🚀
+
+  
