@@ -1,23 +1,56 @@
 <!-- Rajnish Kumar GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Rajnish Kumar</h1>
-<h3 align="center">AI Full Stack Developer | NERN Stack | DSA Lover</h3>
+<h3 align="center">AI Full Stack & Android Developer | NERN Stack | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=AI+Full+Stack+Developer;NERN+Stack+Expert+(Next.js%2C+Express%2C+React%2C+Node);310%2B+LeetCode+Problems+Solved;Machine+Learning+Enthusiast;Clean+Code+%E2%9C%85;Problem+Solver+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=AI+Full+Stack+Developer;Android+Developer+in+Kotlin;310%2B+LeetCode+Problems+Solved;Machine+Learning+Explorer;Clean+Code+Advocate;NERN+Stack+Engineer" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 Tech Stack & Tools
 
-- 🧠 **Languages:** JavaScript, TypeScript, Python  
-- 💻 **Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3  
-- 🔧 **Backend:** Node.js, Express.js, MongoDB  
-- 📦 **Dev Tools:** Git, GitHub, VS Code, Postman, Vercel  
-- 🧠 **AI/ML:** Python (Pandas, NumPy, scikit-learn)  
-- 🔍 **DSA:** 310+ problems solved on LeetCode  
-- ⚙️ **Other:** REST APIs, JWT Auth, CI/CD basics
+#### 🧠 Programming Languages
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+</p>
+
+#### 💻 Frontend
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+</p>
+
+#### 🔧 Backend & Database
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+</p>
+
+#### 📱 Mobile Development
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
+</p>
+
+#### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
+  <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" height="40" alt="Vercel" />
+</p>
 
 ---
 
@@ -40,12 +73,12 @@
 
 ---
 
-### 💼 Current Projects
+### 🛠️ Current Projects
 
-- 🔭 Building an **AI SaaS App** with Next.js & Python
-- ⚡ Developing a **DSA Visualizer** (React + Canvas)
-- 🛠️ Designing my **portfolio website** (Next.js + Tailwind)
-- 💬 Preparing for **tech interviews** (DSA + System Design)
+- 🤖 AI-Powered SaaS Web App (Next.js + Python Backend)
+- 📱 Android App in Kotlin for daily productivity
+- 📊 DSA Visualizer (React + Canvas)
+- 💼 Portfolio Website (Next.js + Tailwind CSS)
 
 ---
 
@@ -67,5 +100,5 @@
 
 ### ⚡ Fun Fact
 
-> I love blending AI with full-stack apps, and I solve bugs like puzzles 🧩  
-> Let’s build something awesome together 🚀
+> I love blending AI, mobile, and web into seamless products — and I debug like a detective 🕵️‍♂️  
+> Always learning. Always building. Let’s collaborate! 🚀
