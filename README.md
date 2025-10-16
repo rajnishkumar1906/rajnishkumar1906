@@ -1,7 +1,7 @@
 <!-- Rajnish Kumar GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Rajnish Kumar</h1>
-<h3 align="center">AI Full Stack & Android Developer | MERN Stack | DSA Enthusiast</h3>
+<h3 align="center">AI Full Stack & Android Developer | MERN Stack | DSA Enthusiast | DJANGO | FLASK  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=AI+Full+Stack+Developer;Android+Developer+%28Kotlin%29;330%2B+LeetCode+Problems+Solved;Node.js+%2B+Express+%2B+MongoDB+%2B+SQL;Machine+Learning+Explorer;Clean+Code+Advocate" alt="Typing SVG" />
