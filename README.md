@@ -13,7 +13,7 @@ AI & Full Stack Developer | Backend Engineer | ML & LLM Explorer | DSA Enthusias
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20Flask-blue" />
   <img src="https://img.shields.io/badge/AI-ML%20%7C%20CV%20%7C%20LLMs-purple" />
-  <img src="https://img.shields.io/badge/DSA-500%2B%20Problems-orange" />
+  <img src="https://img.shields.io/badge/DSA-500%2B%20Solved-orange" />
   <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Docker-black" />
 </p>
 
@@ -21,29 +21,8 @@ AI & Full Stack Developer | Backend Engineer | ML & LLM Explorer | DSA Enthusias
 
 ## 🚀 Tech Stack
 
-### 🧠 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,sql" />
-</p>
-
-### 💻 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
-
-### 🔧 Backend & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis" />
-</p>
-
-### 🤖 AI / ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-### ⚙️ Tools & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,sql,react,nextjs,nodejs,express,mongodb,mysql,redis,docker,aws,git,github,postman,vercel" />
 </p>
 
 ---
@@ -59,8 +38,19 @@ AI & Full Stack Developer | Backend Engineer | ML & LLM Explorer | DSA Enthusias
 
 ---
 
+## 🧠 Featured Projects
 
----
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnishkumar1906&repo=connectly&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnishkumar1906&repo=agentic-ai-system&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnishkumar1906&repo=cv-image-search&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnishkumar1906&repo=portfolio&theme=radical" />
+</p>
+
+--- -->
 
 ## 📊 GitHub Activity
 
@@ -75,6 +65,14 @@ AI & Full Stack Developer | Backend Engineer | ML & LLM Explorer | DSA Enthusias
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajnishkumar1906/rajnishkumar1906/output/github-contribution-grid-snake.svg" alt="github snake" />
+</p>
+
+---
+
 ## 🧩 Competitive Programming
 
 <p align="center">
@@ -84,7 +82,7 @@ AI & Full Stack Developer | Backend Engineer | ML & LLM Explorer | DSA Enthusias
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/rajnishk71249/" target="_blank">
+  <a href="https://leetcode.com/u/rajnishk71249/">
     <img src="https://leetcard.jacoblin.cool/rajnishk71249?theme=dark&ext=contest" />
   </a>
 </p>
@@ -108,5 +106,5 @@ AI & Full Stack Developer | Backend Engineer | ML & LLM Explorer | DSA Enthusias
 ---
 
 ### ⚡ Fun Fact
-> I love building **AI-driven systems**, optimizing **backend performance**,  
+> I enjoy building **AI-driven systems**, optimizing **backend performance**,  
 > and solving **DSA problems like chess puzzles** ♟️🚀
