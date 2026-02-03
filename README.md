@@ -1,120 +1,102 @@
 <!-- Rajnish Kumar | GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Rajnish Kumar</h1>
+
 <h3 align="center">
-Computer Science Undergraduate | AI & Full Stack Developer | Backend & ML Systems | DSA Enthusiast
+AI & Full Stack Developer | Backend Engineer | ML & LLM Explorer | DSA Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+Backend+Developer;MERN+Stack+%7C+Flask+%7C+REST+APIs;Machine+Learning+%26+LLMs;500%2B+DSA+Problems+Solved;Clean+Code+%26+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&center=true&vCenter=true&width=650&lines=AI+%26+Backend+Developer;MERN+Stack+%7C+Flask+%7C+REST+APIs;Machine+Learning+%7C+Computer+Vision+%7C+LLMs;500%2B+DSA+Problems+Solved;Clean+Code+%26+Scalable+Systems" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 **B.Tech CSE student at Lovely Professional University** (CGPA: 7.5)  
-- 🧠 Strong foundation in **Data Structures, Algorithms, OS, DBMS**
-- 🚀 Hands-on experience building **scalable backend systems**, **AI-powered applications**, and **ML pipelines**
-- 🤖 Actively exploring **LLMs, Multi-Agent Systems, Computer Vision, and NLP**
-- 💡 Seeking roles in **AI/ML, Full Stack, Backend, or Software Development**
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20Flask-blue" />
+  <img src="https://img.shields.io/badge/AI-ML%20%7C%20CV%20%7C%20LLMs-purple" />
+  <img src="https://img.shields.io/badge/DSA-500%2B%20Problems-orange" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Docker-black" />
+</p>
 
 ---
 
 ## 🚀 Tech Stack
 
-### 🧠 Programming Languages
+### 🧠 Languages
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,sql" />
+</p>
+
+### 💻 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### 🔧 Backend & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis" />
+</p>
+
+### 🤖 AI / ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+### ⚙️ Tools & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vercel" />
 </p>
 
 ---
 
-### 💻 Backend & Full Stack
+## 🧠 What I Build
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
+  🤖 AI-powered systems & LLM workflows <br/>
+  🌐 Scalable backend services & REST APIs <br/>
+  📊 Data-intensive & distributed applications <br/>
+  🧩 Clean, optimized & maintainable code
 </p>
 
 ---
 
-### 🤖 AI / Machine Learning
-- Machine Learning & Deep Learning  
-- Computer Vision (YOLO, OpenCV)  
-- NLP & Large Language Models (LLMs)  
-- LangChain & Agentic AI Systems  
+## 🧠 Featured Projects (Visual)
 
----
-
-### ⚙️ DevOps & Tools
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="40"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnishkumar1906&repo=connectly&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnishkumar1906&repo=agentic-ai-system&theme=radical" />
 </p>
 
-- **AWS:** EC2, S3  
-- **CI/CD**, REST API Design, System Design  
-
----
-
-## 🧠 Featured Projects
-
-### 🤖 Agentic Marketing Intelligence System  
-**Tech:** Python, LLMs, LangChain, Multi-Agent AI  
-- Built a **multi-agent AI system** to analyze **4,500+ marketing ad records**
-- Designed planner, data, insight, evaluator & creative agents
-- Enforced **structured JSON outputs** from LLMs for reliable insights
-- Delivered automated diagnostics & optimization recommendations via CLI
-
----
-
-### 🌐 Connectly – Social Media Platform  
-**Tech:** MERN, MongoDB, Redis  
-- Developed scalable backend services for a modern social platform
-- Implemented **authentication, feeds, social graphs, and caching**
-- Reduced latency using **Redis caching, indexing & schema optimization**
-- Built extensible media pipelines with Multer & Cloudinary
-
----
-
-### 🖼️ CV Image Search – Visual Retrieval Engine  
-**Tech:** Python, YOLO, OpenCV, Streamlit  
-- Created a **content-based image search system** without manual tags
-- Used object detection to generate structured metadata
-- Designed logical query filters & object-count constraints
-- Built interactive UI with cached search for performance
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajnishkumar1906&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajnishkumar1906&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnishkumar1906&repo=cv-image-search&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnishkumar1906&repo=portfolio&theme=radical" />
 </p>
 
 ---
 
-## 🧠 Competitive Programming
+## 📊 GitHub Activity
 
-- ⭐ **LeetCode Rating:** 1416  
-- ⚔️ **Codeforces Rating:** 608  
-- ✅ **500+ DSA problems solved** across platforms
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajnishkumar1906&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajnishkumar1906&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajnishkumar1906&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🧩 Competitive Programming
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-1416-orange" />
+  <img src="https://img.shields.io/badge/Codeforces-608-blue" />
+  <img src="https://img.shields.io/badge/DSA-500%2B%20Solved-success" />
+</p>
 
 <p align="center">
   <a href="https://leetcode.com/u/rajnishk71249/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/rajnishk71249?theme=dark&ext=contest"/>
+    <img src="https://leetcard.jacoblin.cool/rajnishk71249?theme=dark&ext=contest" />
   </a>
 </p>
 
@@ -122,21 +104,20 @@ Computer Science Undergraduate | AI & Full Stack Developer | Backend & ML System
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rajnish-kumar-893698252/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajnish-kumar-893698252/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:rajnishk71249@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://leetcode.com/u/rajnishk71249/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode"/>
+  <a href="https://leetcode.com/u/rajnishk71249/">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
 
 ---
 
 ### ⚡ Fun Fact
-> I enjoy designing scalable backend systems, building AI-driven products,  
-> and solving algorithmic problems like puzzles.  
-> **Always up for building something impactful 🚀**
+> I love building **AI-driven systems**, optimizing **backend performance**,  
+> and solving **DSA problems like chess puzzles** ♟️🚀
