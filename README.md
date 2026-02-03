@@ -1,110 +1,107 @@
-<!-- Rajnish Kumar | GitHub Profile README -->
+<!-- Rajnish Kumar GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Rajnish Kumar</h1>
-
-<h3 align="center">
-AI & Full Stack Developer | Backend Engineer | ML & LLM Explorer | DSA Enthusiast
-</h3>
+<h3 align="center">AI Full Stack & Android Developer | MERN Stack | DSA Enthusiast | DJANGO | FLASK  </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&center=true&vCenter=true&width=650&lines=AI+%26+Backend+Developer;MERN+Stack+%7C+Flask+%7C+REST+APIs;Machine+Learning+%7C+Computer+Vision+%7C+LLMs;500%2B+DSA+Problems+Solved;Clean+Code+%26+Scalable+Systems" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20Flask-blue" />
-  <img src="https://img.shields.io/badge/AI-ML%20%7C%20CV%20%7C%20LLMs-purple" />
-  <img src="https://img.shields.io/badge/DSA-500%2B%20Solved-orange" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Docker-black" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=AI+Full+Stack+Developer;Android+Developer+%28Kotlin%29;330%2B+LeetCode+Problems+Solved;Node.js+%2B+Express+%2B+MongoDB+%2B+SQL;Machine+Learning+Explorer;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 Tech Stack
+### 🚀 Tech Stack & Tools
 
+#### 🧠 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,sql,react,nextjs,nodejs,express,mongodb,mysql,redis,docker,aws,git,github,postman,vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+</p>
+
+#### 💻 Frontend
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="28" />
+</p>
+
+#### 🔧 Backend & Database
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="28" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
+</p>
+
+
+#### 📱 Android Development
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
+</p>
+
+#### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="40" alt="Vercel" />
 </p>
 
 ---
 
-## 🧠 What I Build
-
-<p align="center">
-  🤖 AI-powered systems & LLM workflows <br/>
-  🌐 Scalable backend services & REST APIs <br/>
-  📊 Data-intensive & distributed applications <br/>
-  🧩 Clean, optimized & maintainable code
-</p>
-
----
-
-## 🧠 Featured Projects
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnishkumar1906&repo=connectly&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnishkumar1906&repo=agentic-ai-system&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnishkumar1906&repo=cv-image-search&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnishkumar1906&repo=portfolio&theme=radical" />
-</p>
-
---- -->
-
-## 📊 GitHub Activity
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajnishkumar1906&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajnishkumar1906&theme=radical" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajnishkumar1906&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
-## 🐍 Contribution Snake
+### 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajnishkumar1906/rajnishkumar1906/output/github-contribution-grid-snake.svg" alt="github snake" />
-</p>
-
----
-
-## 🧩 Competitive Programming
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-1416-orange" />
-  <img src="https://img.shields.io/badge/Codeforces-608-blue" />
-  <img src="https://img.shields.io/badge/DSA-500%2B%20Solved-success" />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/rajnishk71249/">
-    <img src="https://leetcard.jacoblin.cool/rajnishk71249?theme=dark&ext=contest" />
+  <a href="https://leetcode.com/u/rajnishk71249/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/rajnishk71249?theme=dark&ext=contest&font=Baloo" alt="LeetCode Stats" />
   </a>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+### 💼 Current Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rajnish-kumar-893698252/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+- 🤖 AI-Powered SaaS Web App (Next.js + Python Backend)
+- 📱 Android App (Kotlin + Firebase)
+- 📊 DSA Visualizer (React + Canvas)
+- 💼 Portfolio Website (Next.js + Tailwind CSS)
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rajnish-kumar-893698252/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:rajnishk71249@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/rajnishk71249/">
-    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/>
+  <a href="https://leetcode.com/u/rajnishk71249/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ### ⚡ Fun Fact
-> I enjoy building **AI-driven systems**, optimizing **backend performance**,  
-> and solving **DSA problems like chess puzzles** ♟️🚀
+
+> I build full-stack apps, develop Android UIs in Kotlin, solve DSA like puzzles, and love clean, scalable code.  
+> Let's build something cool together! 🚀reqrite complete file
