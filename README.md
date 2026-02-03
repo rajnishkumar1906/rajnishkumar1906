@@ -59,17 +59,6 @@ AI & Full Stack Developer | Backend Engineer | ML & LLM Explorer | DSA Enthusias
 
 ---
 
-## 🧠 Featured Projects (Visual)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnishkumar1906&repo=connectly&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnishkumar1906&repo=agentic-ai-system&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnishkumar1906&repo=cv-image-search&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnishkumar1906&repo=portfolio&theme=radical" />
-</p>
 
 ---
 
